@@ -129,6 +129,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="fs.fs" />
+    <None Include="lamp.fs" />
+    <None Include="lamp.vs" />
     <None Include="vs.vs" />
   </ItemGroup>
   <ItemGroup>

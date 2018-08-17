@@ -29,6 +29,12 @@
     <None Include="vs.vs">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="lamp.fs">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="lamp.vs">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Text Include="OpenGL4.5配置.txt">
